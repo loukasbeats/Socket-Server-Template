@@ -1,0 +1,15 @@
+.inputText {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.sendButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #2800FF;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
